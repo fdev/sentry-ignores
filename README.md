@@ -25,8 +25,8 @@ import { denyUrls, ignoreErrors } from 'sentry-ignores';
 
 Sentry.init({
   ...
-  ignoreErrors,
   denyUrls,
+  ignoreErrors,
 });
 ```
 
