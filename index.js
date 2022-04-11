@@ -98,6 +98,10 @@ module.exports = {
     // Firefox internals.
     '_firefox_',
 
+    // Firefox freeing add-on memory.
+    // https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Errors/Dead_object
+    'can\'t access dead object',
+
     // Nuance Dragon Web Extension.
     'plugin.setSuspendState',
 
