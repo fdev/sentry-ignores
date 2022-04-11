@@ -1,0 +1,30 @@
+{
+  "name": "sentry-ignores",
+  "version": "0.1.0",
+  "description": "A curated list of common ignore rules for Sentry.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "types.d.ts",
+    "LICENSE"
+  ],
+  "typings": "types.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdev/sentry-ignores.git"
+  },
+  "keywords": [
+    "sentry",
+    "ignore",
+    "errors",
+    "urls",
+    "ignoreErrors",
+    "denyUrls"
+  ],
+  "author": "Folkert de Vries",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fdev/sentry-ignores/issues"
+  },
+  "homepage": "https://github.com/fdev/sentry-ignores#readme"
+}
