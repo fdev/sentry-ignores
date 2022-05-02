@@ -37,6 +37,9 @@ module.exports = {
     /nph-proxy\./i,
     /\.cloudfront\..+\/statistic\//i,
 
+    // Safari extensions.
+    /safari-web-extension:/i,
+
     // Woopra.
     /eatdifferent\.com\.woopra-ns\.com/i,
     /static\.woopra\.com\/js\/woopra\.js/i,
