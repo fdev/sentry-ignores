@@ -39,6 +39,7 @@ module.exports = {
 
     // Safari extensions.
     /safari-web-extension:/i,
+    /safari-extension:/i,
 
     // Woopra.
     /eatdifferent\.com\.woopra-ns\.com/i,

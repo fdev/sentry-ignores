@@ -1,6 +1,6 @@
 {
   "name": "sentry-ignores",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A curated list of common ignore rules for Sentry.",
   "main": "index.js",
   "files": [
